@@ -20,7 +20,7 @@ metadata:
     app: helloworld-app
     razee/watch-resource: lite
   name: helloworld-app
-  namespace: satellite-config-sample
+  namespace: 310000xyg8-ns
 spec:
   replicas: 1
   selector:
